@@ -3,8 +3,16 @@ import requests
 import pprint
 import json
 
-print('THIS SCRIPT CREATED BY Bayxyy')
-print('the function of this script is to find the ip address of a website')
+print('''┌─────────────────────────────────────────────┐
+│          IP CHECKER v1.0 By Bayxyy          │
+├─────────────────────────────────────────────┤
+│                    v1.0:                    │
+│          [+] Using Python 3.11              │
+│          [+] Optimization                   │
+│          [+] Responsive for all Website     │
+├─────────────────────────────────────────────┤
+│ Link: https://github.com/Bayxyy/toolscheckip│
+└─────────────────────────────────────────────┘''')
 
 hostname = input('Masukan Domain Website : ')
 ip_address = socket.gethostbyname(hostname)
