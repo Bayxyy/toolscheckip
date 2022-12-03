@@ -1,6 +1,6 @@
 # Bayxyy - Tools For Check IP
 
-![GitHub repo size](https://img.shields.io/github/repo-size/bayxyy/bayxyy.github.io)
+![GitHub repo size](https://img.shields.io/github/repo-size/bayxyy/toolscheckip)
 ![GitHub stars](https://img.shields.io/github/stars/bayxyy/bayxyy.github.io?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/bayxyy/bayxyy.github.io?style=social)
 
