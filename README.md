@@ -1,8 +1,8 @@
 # Bayxyy - Tools For Check IP
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/bayxyy/toolscheckip)
-![GitHub stars](https://img.shields.io/github/stars/bayxyy/bayxyy.github.io?style=social)
-![GitHub forks](https://img.shields.io/github/forks/bayxyy/bayxyy.github.io?style=social)
+![GitHub stars](https://img.shields.io/github/stars/bayxyy/toolscheckip?style=social)
+![GitHub forks](https://img.shields.io/github/forks/bayxyy/toolscheckip?style=social)
 
 This is a tools for check ip address using python.
 
