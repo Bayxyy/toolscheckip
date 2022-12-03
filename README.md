@@ -6,9 +6,11 @@
 
 This is a tools for check ip address using python.
 
-## Using : 
-- git clone https://github.com/Bayxyy/toolscheckip
+## Using :
+
+```- git clone https://github.com/Bayxyy/toolscheckip
 - cd toolscheckip
 - python tools-checkip.py OR python3 tools-checkip.py
+```
 
-copyright : Bayxyy
+Copyright : Bayxyy
